@@ -14,3 +14,7 @@ Keeps the header plus every row whose Created Date (column 2) is in 2024.
 ```
 python borough_complaints.py -i data/311_2024.csv -s 2024-01-01 -e 2024-01-31 [-o out.csv]
 ```
+
+## Task 3
+
+See `complaint_analysis.ipynb` (notebook) and `complaint_type_analysis.md` (write-up).
